@@ -1,1 +1,1 @@
-# trustworthy-superintelligence.github.io
+Trustworthy Superintelligence [Reasoners, LLMS, and Agents]
