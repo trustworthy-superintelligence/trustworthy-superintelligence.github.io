@@ -1,3 +1,7 @@
+---
+layout: redirect
+redirect_to: "https://nikhilwani.github.io"
+---
 
 Google Summer of Code 2024: 
 - Github: https://github.com/nikhilwani/TLR-LLMs/
