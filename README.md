@@ -1,1 +1,1 @@
-Trustworthy Superintelligence [Reasoners, LLMS, and Agents]
+Trustworthy Superintelligence [Reasoners, LLMs, and Agents]
