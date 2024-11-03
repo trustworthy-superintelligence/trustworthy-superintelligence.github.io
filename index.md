@@ -62,20 +62,21 @@ body
     Research and Publications
 </div>
 
-<div style="text-align: left;">
+
+<p style="text-align: left;">
 <a href="#" target="_blank"> <img src="/safetynoborder.svg" alt="CSCW" class="image1"></a>    
 1. <b>Which and how many LLMs do you Trust? Understanding Human-AI decision-making under uncertainty</b><br>
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: CSCW 2024 Oct cycle)
 <br>
+</p>
 <br>
-
-<a href="http://www.twitter.com/shawtyanswers" target="_blank"> <img src="/trust4.svg" alt="interact-2017" class="image1"></a>
+<p style="text-align: left;">
+<a href="#" target="_blank"> <img src="/trust4.svg" alt="chi" class="image1"></a>
 2. <b>Large Language Models as Thought Partners: Implications for AI Safety interventions</b><br>
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: Extended Abstract, CHI 2024)
-</div>
-
+</p>
 
 
 
