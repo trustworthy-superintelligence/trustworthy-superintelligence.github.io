@@ -50,7 +50,7 @@ body
 <a href="#" style="font-weight: lighter;">
     <img src="https://cdn-icons-png.flaticon.com/512/5234/5234879.png" alt="" style="width:20px; height:20px; vertical-align:middle;"> Abstract
 </a>| 
-<a href="nikhylwani[@]gmail[dot]com" style="font-weight: lighter;">
+<a href="emailto:nikhylwani[@]gmail[dot]com" style="font-weight: lighter;">
     <img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="Demo" style="width:20px; height:20px; vertical-align:middle;"> Demo (Request an invite)
 </a>
 </ul>   
