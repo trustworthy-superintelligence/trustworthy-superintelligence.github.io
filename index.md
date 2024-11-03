@@ -1,3 +1,37 @@
+<style type="text/css">
+
+.image
+{
+
+ float:left;
+ margin-top: 6px;
+ margin-right: 7px; 
+ margin-bottom: -7px;  
+ height: 100px; 
+ border: 5px; 
+ border-radius: 5px;
+}
+
+.image1
+{
+
+ float:left;
+ margin-top: 18px;
+ margin-right: 19px;  
+ height: 115px;
+ width: 125px; 
+ border: 5px; 
+ border-radius: 5px;
+}
+
+body
+{
+	text-align: justify;
+}
+
+</style>
+
+
 
 <div style="text-align: center; font-weight: lighter; font-size: 1.2em;">
     Google Summer of Code 2024
@@ -29,11 +63,13 @@
 </div>
 
 <p style="text-align: left;">
+<a href="#" target="_blank"> <img src="/safetynoborder.svg" alt="CSCW" class="image1"></a>    
 1. <b>Which and how many LLMs do you Trust? Understanding Human-AI decision-making under uncertainty</b><br>
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: CSCW 2024 Oct cycle)
 <br>
 <br>
+<a href="http://www.twitter.com/shawtyanswers" target="_blank"> <img src="/trust4.svg" alt="interact-2017" class="image1"></a>
 2. <b>Large Language Models as Thought Partners: Implications for AI Safety interventions</b><br>
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: Extended Abstract, CHI 2024)
