@@ -62,13 +62,13 @@ body
     Research and Publications
 </div>
 
-<p style="text-align: left;">
+<div style="text-align: left;">
 <a href="#" target="_blank"> <img src="/safetynoborder.svg" alt="CSCW" class="image1"></a>    
 1. <b>Which and how many LLMs do you Trust? Understanding Human-AI decision-making under uncertainty</b><br>
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: CSCW 2024 Oct cycle)
 <br>
-</p>
+</div>
 
 <br>
 <p style="text-align: left;">
