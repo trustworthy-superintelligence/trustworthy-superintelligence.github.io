@@ -68,7 +68,10 @@ body
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: CSCW 2024 Oct cycle)
 <br>
+</p>
+
 <br>
+<p style="text-align: left;">
 <a href="http://www.twitter.com/shawtyanswers" target="_blank"> <img src="/trust4.svg" alt="interact-2017" class="image1"></a>
 2. <b>Large Language Models as Thought Partners: Implications for AI Safety interventions</b><br>
     Nikhil Wani, Leilani Gilpin<br>
