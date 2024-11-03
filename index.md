@@ -10,16 +10,19 @@
 <a href="https://github.com/nikhilwani/TLR-LLMs/" style="font-weight: lighter;">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:20px; height:20px; vertical-align:middle;"> Github
 </a> | 
-<a href="http://50.18.10.7/" style="font-weight: lighter;">
+<a href="#" style="font-weight: lighter;">
     <img src="https://mockyapp.com/wp-content/uploads/2023/09/6941302.png" alt="Prototypes" style="width:20px; height:20px; vertical-align:middle;"> Prototypes
 </a> | 
-<a href="http://50.18.10.7/" style="font-weight: lighter;">
+<a href="#" style="font-weight: lighter;">
     <img src="https://cdn-icons-png.flaticon.com/512/5234/5234879.png" alt="" style="width:20px; height:20px; vertical-align:middle;"> Abstract
 </a>| 
-<a href="http://50.18.10.7/" style="font-weight: lighter;">
+<a href="nikhylwani[@]gmail[dot]com" style="font-weight: lighter;">
     <img src="https://cdn-icons-png.flaticon.com/512/0/375.png" alt="Demo" style="width:20px; height:20px; vertical-align:middle;"> Demo (Connect for an invite)
 </a>
 </ul>   
+
+
+
 
 <div style="text-align: center; font-weight: lighter; font-size: 1.2em;">
     Research and Publications
