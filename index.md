@@ -47,7 +47,7 @@ body
 <a href="#" style="font-weight: lighter;">
     <img src="https://mockyapp.com/wp-content/uploads/2023/09/6941302.png" alt="Prototypes" style="width:20px; height:20px; vertical-align:middle;"> Prototypes
 </a> | 
-<a href="#" style="font-weight: lighter;">
+<a href="https://summerofcode.withgoogle.com/programs/2024/projects/9WBTC535" style="font-weight: lighter;">
     <img src="https://cdn-icons-png.flaticon.com/512/5234/5234879.png" alt="" style="width:20px; height:20px; vertical-align:middle;"> Abstract
 </a>| 
 <a href="emailto:nikhylwani[@]gmail[dot]com" style="font-weight: lighter;">
