@@ -1,0 +1,75 @@
+<footer class="site-footer h-card">
+
+
+
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <center>
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2> -->
+    This page is scheduled to be updated on or by
+    <span style="background: -webkit-linear-gradient(red, blue); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+     Dec 15, 2024.
+    <!-- <br>Stay tuned! -->
+  </span>
+  </center>
+
+    <div class="footer-col-wrapper">
+
+
+      <div class="footer-col footer-col-1">
+        
+        <ul class="contact-list">
+
+
+          <li class="p-name">
+            {%- if site.author -%}
+            <center>
+              {{ site.author | escape }}
+            </center>
+              
+            {%- else -%}
+       <!--        {{ site.title | escape }} -->
+            {%- endif -%}
+            </li>
+
+
+          <!--   {%- if site.email -%} -->
+           <!-- {%- include social.html -%} -->
+           
+           <!--
+          <li> <a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              <li><a class="u-email" href="mailto:{{ site.semail }}">{{ site.semail }}</a></li>
+            -->
+
+          
+            {%- endif -%}
+        </ul>
+      </div>
+
+      <!-- 
+     <div class="footer-col footer-col-1">
+      <a href="https://stackoverflow.com/users/9370096/nikhil-wani"><img src="https://stackoverflow.com/users/flair/9370096.png" width="208" height="58" alt="profile for Nikhil Wani at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nikhil Wani at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+      </div> 
+     <!-- 
+      
+
+    
+      <div class="footer-col footer-col-2">
+           {{ site.author | escape }}
+      </div>
+
+    
+
+  <!--      <div class="footer-col footer-col-1">
+        <p>{{- site.description | escape -}}</p>
+       </div>> -->
+
+
+      
+    </div>
+
+  </div>
+
+</footer>
