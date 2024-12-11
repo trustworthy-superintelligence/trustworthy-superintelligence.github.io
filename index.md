@@ -57,7 +57,7 @@ body
 
 
 
-<br>
+<!-- <br>
 <div style="text-align: center; font-weight: lighter; font-size: 1.2em;">
     Research and Publications
 </div>
@@ -77,7 +77,7 @@ body
 2. <b>Large Language Models as Thought Partners: Implications for AI Safety interventions</b><br>
     Nikhil Wani, Leilani Gilpin<br>
     (Under Review: Extended Abstract, CHI 2024)
-</p>
+</p> -->
 
 
 
